@@ -8,8 +8,6 @@
 2. Design transfer feature for pallet-kitties
 3. Requirements:
     - Kitty owner should be able to transfer a kitty to someone else
-4. Submit the design document to submission folder
-5. Push all the changes to master
 
 ---
 
